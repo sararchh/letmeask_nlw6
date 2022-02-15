@@ -1,5 +1,6 @@
 <h2  align="center">
 LetmeAsk - NLW 06
+<img  alt="cover-alt"  src=".github/letmeask.png" />
 </h2>
 
   
